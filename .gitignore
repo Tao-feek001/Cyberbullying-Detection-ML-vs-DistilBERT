@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Large or local-only artefacts
+cyberbullying_datasets.csv
+cyberbullying_datasets.xlsx
+trained_models.zip
+distilbert_saved_model/
+Dataset_Combination/cyberbullying_tweets.csv
+Dataset_Combination/labeled_data.csv
+Dataset_Combination/train.csv
+
+# OS/editor noise (safe defaults)
+.DS_Store
+Thumbs.db
